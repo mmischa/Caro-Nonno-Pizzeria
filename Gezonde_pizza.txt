@@ -3,9 +3,15 @@
 125 gr volle kwark
 2 eetlepels olijfolie
 snufje zout
+<<<<<<< HEAD
 300 ml tomatensaus
 170 gr broccoli
 500 gr champignons
+=======
+200 ml tomatensaus
+180 gr broccoli
+50 gr champignons
+>>>>>>> dbe8ddaaf471c72bb629ce55974f425c627fe9db
 1 Handje rucola
 75 gr mozzarella (geraspt)
 1 kleine rode ui
